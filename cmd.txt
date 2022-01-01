@@ -1,0 +1,17 @@
+pip list
+pip install django
+pip install djangorestframework
+pip install django-cors-headers
+pip install pillow
+pip install djangorestframework-simplejwt
+
+
+
+
+
+django-admin startproject backend
+python manage.py startapp base
+
+
+
+https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
