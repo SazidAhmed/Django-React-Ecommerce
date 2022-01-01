@@ -1,0 +1,10 @@
+npm install react-bootstrap
+npm install react-router-dom react-router-bootstrap
+npm install
+npm install
+npm install
+npm install
+npm install
+npm install
+npm install
+npm install
